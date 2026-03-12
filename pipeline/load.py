@@ -1,4 +1,4 @@
-    from google.cloud import bigquery
+from google.cloud import bigquery
 
 def load_data(df):
 
